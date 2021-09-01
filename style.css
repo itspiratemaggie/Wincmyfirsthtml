@@ -1,0 +1,35 @@
+h1,
+h2,h4,
+.black-border {
+  border: 5px solid black;
+}
+a,
+body {
+  background-color: peachpuff;
+}
+a,
+font {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+body {
+  color: palevioletred;
+}
+
+
+p,
+.font {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+ul,
+#font {
+  font-size: larger;
+}
+ol,
+#font {
+  font-size: 26px;
+}
+
+footer,#font {font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; font-size: x-large; font-weight: bold;}
+
+
